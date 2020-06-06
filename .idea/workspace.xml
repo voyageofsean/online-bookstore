@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c8091d5-95b3-4879-8b1a-24e5d107d14e" name="Default Changelist" comment="数据插入" />
+    <list default="true" id="6c8091d5-95b3-4879-8b1a-24e5d107d14e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591404239117</updated>
-      <workItem from="1591404241745" duration="6367000" />
+      <workItem from="1591404241745" duration="6712000" />
     </task>
     <task id="LOCAL-00001" summary="数据插入">
       <created>1591411367915</created>
@@ -99,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591428126124</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="数据插入">
+      <created>1591428851694</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591428851694</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,13 +122,21 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="465" y="23" key="#xlsx2db/0.0.1536.864@0.0.1536.864" timestamp="1591411148474" />
-    <state x="254" y="19" width="802" height="795" key="CommitChangelistDialog2" timestamp="1591428189457">
+    <state x="254" y="19" width="802" height="795" key="CommitChangelistDialog2" timestamp="1591428851049">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="254" y="19" width="802" height="795" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1591428189457" />
+    <state x="254" y="19" width="802" height="795" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1591428851049" />
+    <state x="1000" y="329" key="Github.ShareDialog" timestamp="1591428822099">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="1000" y="329" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1591428822099" />
     <state x="462" y="109" width="996" height="710" key="SettingsEditor" timestamp="1591428733843">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="462" y="109" width="996" height="710" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591428733843" />
+    <state x="622" y="167" key="Vcs.Push.Dialog.v2" timestamp="1591428934422">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="622" y="167" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1591428934422" />
   </component>
 </project>
