@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c8091d5-95b3-4879-8b1a-24e5d107d14e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cvLhUfARMEeNQ6SrbeZLbANZXG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mysite" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kagem\online-bookstore\mysite" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="xlsx2db" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="online-bookstore" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/mysite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysite/xlsx2db.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.xlsx2db" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c8091d5-95b3-4879-8b1a-24e5d107d14e" name="Default Changelist" comment="" />
+      <created>1591404239117</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591404239117</updated>
+      <workItem from="1591404241745" duration="6712000" />
+    </task>
+    <task id="LOCAL-00001" summary="数据插入">
+      <created>1591411367915</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591411367915</updated>
+    </task>
+    <task id="LOCAL-00002" summary="数据插入">
+      <created>1591414336378</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591414336378</updated>
+    </task>
+    <task id="LOCAL-00003" summary="数据插入">
+      <created>1591428126124</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591428126124</updated>
+    </task>
+    <task id="LOCAL-00004" summary="数据插入">
+      <created>1591428851694</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591428851694</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="数据插入" />
+    <option name="LAST_COMMIT_MESSAGE" value="数据插入" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="23" key="#xlsx2db" timestamp="1591411148474">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="23" key="#xlsx2db/0.0.1536.864@0.0.1536.864" timestamp="1591411148474" />
+    <state x="254" y="19" width="802" height="795" key="CommitChangelistDialog2" timestamp="1591428851049">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="254" y="19" width="802" height="795" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1591428851049" />
+    <state x="1000" y="329" key="Github.ShareDialog" timestamp="1591428822099">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="1000" y="329" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1591428822099" />
+    <state x="462" y="109" width="996" height="710" key="SettingsEditor" timestamp="1591428733843">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="462" y="109" width="996" height="710" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1591428733843" />
+    <state x="622" y="167" key="Vcs.Push.Dialog.v2" timestamp="1591428934422">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="622" y="167" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1591428934422" />
+  </component>
+</project>
