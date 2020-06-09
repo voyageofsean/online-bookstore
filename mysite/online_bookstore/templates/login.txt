@@ -1,0 +1,37 @@
+<table class="table table-hover">
+    
+        <thead>
+            <tr>
+                <th>ISBN</th>
+                <th>书名</th>
+                <th>作者</th>
+                <th>库存数</th>
+                <th>价格</th>
+                <th>出版日期</th>
+                <th>上架日期</th>
+                <th>其他信息</th>
+            </tr>
+        </thead>
+        <tbody>
+        <form method="post" action="#">   <!--{% csrf_token %}-->
+            {% for book in books %}
+                <tr id = {{ book.ISBN }} class="goods_list">
+                    <td>{{ book.ISBN }}</td>
+                    <td>{{ book.BookName }}</td>
+                    <td>{{ book.BookAuthor }}</td>
+                    <td>{{ book.BookNum }}</td>
+                    <td>{{ book.BookPrice }}</td>
+                    <td>{{ book.PublishDate }}</td>
+                    <td>{{ book.ShelfDate }}</td>
+                    <td>{{ book.BookInformation }}</td>
+                {% if front_user %}
+                    <td><button type="submit" name="shoppingcart" value={{ book.0 }}>加入购物车</button></td>
+                    <td><button type="submit" name="information" value={{ book.0 }}>详细信息</button></td>
+                {% endif %}
+
+                </tr>
+            {% endfor %}
+        </form>
+
+        </tbody>
+    </table>
