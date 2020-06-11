@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>详情</title>
+</head>
+<body>
+{% if book %}
+    <table border="1">
+        <thead>
+        <tr>
+            <th>ISBN</th>
+            <th>书名</th>
+            <th>作者</th>
+            <th>库存数</th>
+            <th>价格</th>
+            <th>出版日期</th>
+            <th>上架日期</th>
+            <th>其他信息</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for b in book %}
+        <tr id={{ b.ISBN }} class="goods_list">
+            <td>{{ b.ISBN }}</td>
+            <td>{{ b.BookName }}</td>
+            <td>{{ b.BookAuthor }}</td>
+            <td>{{ b.BookNum }}</td>
+            <td>{{ b.BookPrice }}</td>
+            <td>{{ b.PublishDate }}</td>
+            <td>{{ b.ShelfDate }}</td>
+            <td>{{ b.BookInformation }}</td>
+        {% endfor %}
+        </tr>
+        </tbody>
+
+    </table>
+{% else %}
+    <p>No books are available.</p>
+{% endif %}
+</body>
+
+</html>
